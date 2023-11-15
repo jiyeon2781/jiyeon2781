@@ -2,7 +2,7 @@
 
 
 
-<br/><a href="https://solved.ac/whkakrkr"><img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jiyeon2781"/></a>
+<br/><a href="https://solved.ac/jiyeon2781"><img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jiyeon2781"/></a>
 <h3 align="center">📘Stack📘</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white"/>
